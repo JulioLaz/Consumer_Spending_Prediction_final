@@ -1,16 +1,12 @@
-![ingresos_subcontinent_pie](https://github.com/JulioLaz/Consumer_Spending_Prediction_final/assets/108642139/f9105af0-89f5-48d1-8b04-500244b90254)CONSUMER SPENDING PREDICTIONS
+CONSUMER SPENDING PREDICTIONS
 
 ![image](https://github.com/JulioLaz/Consumer_Spending_Prediction_final/assets/108642139/083209f5-14ed-45c5-bf9c-3ac57794dae1)
 
 PROBLEMA DE NEGOCIO
 
-
 La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web.
 
-
 Tareas a realizar:
-
-
 Preprocesamiento de Datos: Importar correctamente y analizar y comprender el conjunto de datos proporcionado, realizar limpieza de datos, eliminar atributos que no aportan valor y manejar valores faltantes.
 
 Exploración y Feature Engineering: Realizar visualizaciones para entender las relaciones entre las variables y seleccionar las características relevantes, identificar variables llaves, codificación de variables categóricas y normalización/escalado de datos.
